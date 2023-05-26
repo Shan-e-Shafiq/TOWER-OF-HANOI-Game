@@ -1,0 +1,15 @@
+Layout y=451
+Layout x=100
+height 30 
+first width 200
+second -15
+layoutx added is +7
+add to next pole 250
+//////
+Layout y=609
+Layout x=75
+height 30 
+first width 290
+second -15
+layoutx added is +7
+add to next pole 380
